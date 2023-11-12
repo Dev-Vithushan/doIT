@@ -7,12 +7,21 @@ we are using with some configuration here!
 
 ## React Native Paper Configuration
 
+```sh
+
 yarn add react-native-paper
 yarn add react-native-safe-area-context
 
+```
+
+
 
 ## Navigation configuration
+
+```sh
 yarn add @react-navigation/native
+
+```
 
 ## Usage
 
